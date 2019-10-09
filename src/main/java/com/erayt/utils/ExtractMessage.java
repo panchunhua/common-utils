@@ -1,8 +1,3 @@
-/**
- * 
- * @author panch
- * @date 2019年5月15日
- */
 package com.erayt.utils;
 
 import java.io.File;
